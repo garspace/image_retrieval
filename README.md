@@ -6,3 +6,6 @@
 
 ## image_retrieval_based_on_triplet_loss
 基于triplet loss构建的度量学习图像检索示例，图像数据集用的minist与fashion-mnist示例。
+
+## 博客
+https://developer.aliyun.com/article/891551
